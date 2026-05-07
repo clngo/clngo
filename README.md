@@ -1,6 +1,6 @@
 
 ## 👋 Heyo!
-I’m currently a Junior at Cal Poly SLO studying Computer Science.
+I’m currently a Senior at Cal Poly SLO studying Computer Science.
 
 
 ## Skills
